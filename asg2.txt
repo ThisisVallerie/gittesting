@@ -1,0 +1,22 @@
+Pseudocode: Count Rectangle Area
+
+#1
+Start
+    Buat variable Lebar = 3
+    Buat variable Panjang = 5
+    Buat variable Luas
+
+    Proses Luas = Lebar * Panjang
+    Output print Luas
+End
+
+#2
+Start
+    Input Lebar
+    Input Panjang
+
+    Buat variable Luas
+    Proses Luas = Lebar * Panjang
+
+    Output print Luas
+End
